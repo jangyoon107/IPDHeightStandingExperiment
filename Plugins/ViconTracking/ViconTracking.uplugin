@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ViconTracking",
+	"Description": "Plugin for using Vicon to do rigidbody or skeleton tracking",
+	"Category": "Other",
+	"CreatedBy": "Peng Liu",
+	"CreatedByURL": "cs.umn.edu/~peng",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"Modules": [
+		{
+			"Name": "ViconTracking",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false
+}

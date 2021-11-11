@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.13",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "IPDHeightStandingExp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
