@@ -8,7 +8,6 @@ Decide on
   - Distance/height changes to the user
   - Distance changes to the cube
   - IPD changes to the user
-  - Etc...
 
 After cloning the project:
   1. Right click on uproject file and select genereate visual studio file.
