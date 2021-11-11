@@ -1,4 +1,5 @@
-# IPDHeightStandingExp
+# Dwarf or Giant: The Influence of Interpupillary Distance and Eye Height on Size Perception in Virtual Environments
+https://diglib.eg.org/handle/10.2312/egve20171353
 # Readme
 
 IMPORTANT!!!
